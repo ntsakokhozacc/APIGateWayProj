@@ -1,0 +1,210 @@
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\bin\Debug\net5.0\appsettings.json
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\bin\Debug\net5.0\AccManagement.StaticWebAssets.xml
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\bin\Debug\net5.0\AccManagement.exe
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\bin\Debug\net5.0\AccManagement.deps.json
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\bin\Debug\net5.0\AccManagement.runtimeconfig.json
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\bin\Debug\net5.0\AccManagement.runtimeconfig.dev.json
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\bin\Debug\net5.0\AccManagement.dll
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\bin\Debug\net5.0\ref\AccManagement.dll
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\bin\Debug\net5.0\AccManagement.pdb
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\bin\Debug\net5.0\Humanizer.dll
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\obj\Debug\net5.0\AccManagement.csproj.AssemblyReference.cache
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\obj\Debug\net5.0\AccManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\obj\Debug\net5.0\AccManagement.AssemblyInfoInputs.cache
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\obj\Debug\net5.0\AccManagement.AssemblyInfo.cs
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\obj\Debug\net5.0\AccManagement.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\obj\Debug\net5.0\AccManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\obj\Debug\net5.0\AccManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\obj\Debug\net5.0\staticwebassets\AccManagement.StaticWebAssets.Manifest.cache
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\obj\Debug\net5.0\staticwebassets\AccManagement.StaticWebAssets.xml
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\obj\Debug\net5.0\scopedcss\bundle\AccManagement.styles.css
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\obj\Debug\net5.0\AccManagement.RazorTargetAssemblyInfo.cache
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\obj\Debug\net5.0\AccManagement.csproj.CopyComplete
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\obj\Debug\net5.0\AccManagement.dll
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\obj\Debug\net5.0\ref\AccManagement.dll
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\obj\Debug\net5.0\AccManagement.pdb
+C:\Users\LENOVO THINKPAD\source\repos\AccManagement\AccManagement\obj\Debug\net5.0\AccManagement.genruntimeconfig.cache
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\bin\Debug\net5.0\appsettings.json
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\bin\Debug\net5.0\AccManagement.StaticWebAssets.xml
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\bin\Debug\net5.0\AccManagement.exe
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\bin\Debug\net5.0\AccManagement.deps.json
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\bin\Debug\net5.0\AccManagement.runtimeconfig.json
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\bin\Debug\net5.0\AccManagement.runtimeconfig.dev.json
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\bin\Debug\net5.0\AccManagement.dll
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\bin\Debug\net5.0\ref\AccManagement.dll
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\bin\Debug\net5.0\AccManagement.pdb
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\bin\Debug\net5.0\Humanizer.dll
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\obj\Debug\net5.0\AccManagement.csproj.AssemblyReference.cache
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\obj\Debug\net5.0\AccManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\obj\Debug\net5.0\AccManagement.AssemblyInfoInputs.cache
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\obj\Debug\net5.0\AccManagement.AssemblyInfo.cs
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\obj\Debug\net5.0\AccManagement.csproj.CoreCompileInputs.cache
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\obj\Debug\net5.0\AccManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\obj\Debug\net5.0\AccManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\obj\Debug\net5.0\staticwebassets\AccManagement.StaticWebAssets.Manifest.cache
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\obj\Debug\net5.0\staticwebassets\AccManagement.StaticWebAssets.xml
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\obj\Debug\net5.0\scopedcss\bundle\AccManagement.styles.css
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\obj\Debug\net5.0\AccManagement.RazorTargetAssemblyInfo.cache
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\obj\Debug\net5.0\AccManagement.csproj.CopyComplete
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\obj\Debug\net5.0\AccManagement.dll
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\obj\Debug\net5.0\ref\AccManagement.dll
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\obj\Debug\net5.0\AccManagement.pdb
+C:\Users\TC-09\Desktop\dotnet\AccManagement\AccManagement\obj\Debug\net5.0\AccManagement.genruntimeconfig.cache
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\appsettings.json
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\AccManagement.StaticWebAssets.xml
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\AccManagement.exe
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\AccManagement.deps.json
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\AccManagement.runtimeconfig.json
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\AccManagement.runtimeconfig.dev.json
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\AccManagement.dll
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\ref\AccManagement.dll
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\AccManagement.pdb
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\Humanizer.dll
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\obj\Debug\net5.0\AccManagement.csproj.AssemblyReference.cache
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\obj\Debug\net5.0\AccManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\obj\Debug\net5.0\AccManagement.AssemblyInfoInputs.cache
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\obj\Debug\net5.0\AccManagement.AssemblyInfo.cs
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\obj\Debug\net5.0\AccManagement.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\obj\Debug\net5.0\AccManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\obj\Debug\net5.0\AccManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\obj\Debug\net5.0\staticwebassets\AccManagement.StaticWebAssets.Manifest.cache
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\obj\Debug\net5.0\staticwebassets\AccManagement.StaticWebAssets.xml
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\obj\Debug\net5.0\scopedcss\bundle\AccManagement.styles.css
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\obj\Debug\net5.0\AccManagement.RazorTargetAssemblyInfo.cache
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\obj\Debug\net5.0\AccManagement.csproj.CopyComplete
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\obj\Debug\net5.0\AccManagement.dll
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\obj\Debug\net5.0\ref\AccManagement.dll
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\obj\Debug\net5.0\AccManagement.pdb
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\obj\Debug\net5.0\AccManagement.genruntimeconfig.cache

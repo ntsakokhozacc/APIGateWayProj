@@ -1,0 +1,40 @@
+{
+  "ReRoutes": [
+    {
+      "DownstreamPathTemplate": "/api/chat",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "Localhost",
+          "Port": "44341"
+        }
+      ],
+      "UpstreamPathTemplate": "/chat",
+      "UpstreamhttpMethod": "catchAll"
+    },
+    {
+      "DownstreamPathTemplate": "/api/user",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "Localhost",
+          "Port": "44335"
+        }
+      ],
+      "UpstreamPathTemplate": "/user",
+      "UpstreathttpMethod": "catchAll"
+    },
+    {
+      "DownstreamPathTemplate": "/api/report",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "Localhost",
+          "Port": "44379"
+        }
+      ],
+      "UpstreamPathTemplate": "/report", 
+      "UpstreathttpMethod": "catchAll"
+    }
+  ]
+}
