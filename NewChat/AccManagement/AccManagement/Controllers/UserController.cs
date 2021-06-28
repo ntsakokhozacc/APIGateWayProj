@@ -51,9 +51,10 @@ namespace AccManagement.Controllers
             return users;
         }
 
+
         //get user by id
         [HttpGet]
-        [Route("get/user/(id)")]
+        [Route("get/user/{UserId}")]
         public async Task<List<Users>> GetUserById(string UserId)
         {
             List<Users> users = new List<Users>();
@@ -80,9 +81,39 @@ namespace AccManagement.Controllers
             return users;
         }
 
+        //Get user by email
+       
+        [HttpGet]
+        [Route("get/user/ByEmailAddress")]
+        public async Task<List<Users>> GetUserByEmail(string EmailAddress)
+        {
+            List<Users> users = new List<Users>();
+            DbDataReader userReader = null;
+            userReader = await userSqlCommands.GetUserByEmail(EmailAddress);
+            while (await userReader.ReadAsync())
+            {
+                users.Add(new Users()
+                {
+                    UserId = Int16.Parse(userReader.GetValue("UserId").ToString()),
+                    FirstName = userReader.GetValue("FirstName").ToString(),
+                    LastName = userReader.GetValue("LastName").ToString(),
+                    Address = userReader.GetValue("Address").ToString(),
+                    Organization = userReader.GetValue("Organization").ToString(),
+                    PhoneNum = userReader.GetValue("PhoneNum").ToString(),
+                    EmailAddress = userReader.GetValue("EmailAddress").ToString(),
+                    Password = userReader.GetValue("Password").ToString(),
+                    Role = userReader.GetValue("Role").ToString(),
+
+
+                });
+            }
+            await userSqlCommands.CloseConnection();
+            return users;
+        }
+
         //Create user
         [HttpPost]
-        [Route("CreateUser/{UserId}")]
+        [Route("CreateUser")]
         public async Task<HttpStatusCode> CreateUser(string FirstName, string LastName, string Address, string Organization, string PhoneNum, string EmailAddress, string Password, string Role)
         {
             DbDataReader userReader = null;

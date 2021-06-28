@@ -65,6 +65,13 @@ namespace AccManagement.Models.Commands
             var Result = await SqlCommand.ExecuteReaderAsync();
             return Result;
         }
+        public async Task<DbDataReader> GetUserByEmail(string EmailAddress)
+        {
+            await Connection.OpenAsync();
+            SqlCommand = new SqlCommand("select * From users where EmailAddress ='"+ EmailAddress+"'", Connection);
+            var Result = await SqlCommand.ExecuteReaderAsync();
+            return Result;
+        }
         public async Task CloseConnection()
         {
             await Connection.CloseAsync();

@@ -14,7 +14,7 @@ using System.Threading.Tasks;
 
 namespace NewChat.Controllers
 {
-    [Route("Chat")]
+    [Route("chat")]
     [ApiController]
     public class ChatController : ControllerBase
     {
@@ -27,7 +27,7 @@ namespace NewChat.Controllers
 
 
         [HttpPost]
-        [Route("/InsertMessages/(ChatId)")]
+        [Route("InsertMessages/{Message}/{SenderId}/{RecipientId}")]
         public async Task<HttpStatusCode> NewMessage(string Message, string SenderId, string RecipientId)
         {
             DbDataReader ChatReader = null;
@@ -48,12 +48,12 @@ namespace NewChat.Controllers
 
         }
         [HttpGet]
-        [Route("/getChats")]
-        public async Task<List<ChatModel>> ChatMessages(string Sender, string Reciever)
+        [Route("getChats/{SenderId}/{RecipientId}")]
+        public async Task<List<ChatModel>> ChatMessages(string SenderId, string RecipientId)
         {
             List<ChatModel> Chats = new List<ChatModel>();
             DbDataReader ChatReader = null;
-            ChatReader = await chatSqlCommands.ChatMessages(Int16.Parse(Sender), Int16.Parse(Reciever));
+            ChatReader = await chatSqlCommands.ChatMessages(Int16.Parse(SenderId), Int16.Parse(RecipientId));
 
             while (await ChatReader.ReadAsync())
             {

@@ -35,7 +35,7 @@ namespace ReportApi.Controllers
         }
 
         [HttpPost]
-        [Route("/Register")]
+        [Route("Register")]
         public async Task<IActionResult> Register([FromBody] UserRegistrationDto user)
         {
 
@@ -85,7 +85,7 @@ namespace ReportApi.Controllers
         }
 
         [HttpPost]
-        [Route("/login")]
+        [Route("login")]
         public async Task<IActionResult> Login([FromBody] UserLoginRequest user)
         {
             if (ModelState.IsValid)
@@ -159,7 +159,7 @@ namespace ReportApi.Controllers
 
         }
         [HttpGet]
-        [Route("/DecodeToken")]
+        [Route("DecodeToken")]
         public string[] DecodeJwt(string Token)
         {
            var Handler = new JwtSecurityTokenHandler();

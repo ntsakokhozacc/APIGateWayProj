@@ -13,7 +13,7 @@ using ReportApi.Modals.Commands;
 namespace ReportApi.Controllers
 {
     [ApiController]
-    [Route("/Report")]
+    [Route("Report")]
     public class ReportController :ControllerBase
     {
         private ReportSQLCommands reportSQLCommands;
@@ -24,7 +24,7 @@ namespace ReportApi.Controllers
         }
 
         [HttpPost]
-        [Route("/createCase")]
+        [Route("createCase")]
         public async Task<HttpStatusCode> CreateCase(ReportModals report)
         {
             //int CaseId = Convert.ToInt16(report.CaseId);
@@ -58,7 +58,7 @@ namespace ReportApi.Controllers
         }
 
         [HttpGet]
-        [Route("/getAll/Reports")]
+        [Route("getAll/Reports")]
         public async Task<List<ReportModals>> DisplayAllReports()
         {
             List<ReportModals> Reports = new List<ReportModals>();
@@ -91,7 +91,7 @@ namespace ReportApi.Controllers
         }
 
         [HttpGet]
-        [Route("/getReport/{CaseId}")]
+        [Route("getReport/{CaseId}")]
         public async Task<ReportModals> getReport(string CaseId)
         {
             DbDataReader ReportReader = null;
@@ -123,7 +123,7 @@ namespace ReportApi.Controllers
         }
 
         [HttpGet]
-        [Route("/getReports/{Customer}")]
+        [Route("getReports/{Customer}")]
         public async Task<List<ReportModals>> DisplayAllCompanyReports(string Customer)
         {
             List<ReportModals> Reports = new List<ReportModals>();
@@ -156,7 +156,7 @@ namespace ReportApi.Controllers
         }
 
         [HttpPost]
-        [Route("/updateStatus/{CaseId}")]
+        [Route("updateStatus/{CaseId}")]
         public async Task<HttpStatusCode>  UpdateStatus(string CaseId,string Status)
         {
             DbDataReader ReportReader = null;
@@ -174,7 +174,7 @@ namespace ReportApi.Controllers
         }
 
         [HttpPost]
-        [Route("/updateStages/{CaseId}")]
+        [Route("updateStages/{CaseId}")]
         public async Task<HttpStatusCode> UpdateStage(string CaseId,string Stages)
         {
             DbDataReader ReportReader = null;
@@ -192,7 +192,7 @@ namespace ReportApi.Controllers
         }
    
         [HttpGet]
-        [Route("/Company/DisplayByStages")]
+        [Route("Company/DisplayByStages")]
         public async Task<List<ReportModals>> SearchCompanyStage(string Customer,string Stages)
         {
             List<ReportModals> Reports = new List<ReportModals>();
@@ -227,7 +227,7 @@ namespace ReportApi.Controllers
 
         //Display Resolved or unResolved cases
         [HttpGet]
-        [Route("/DisplayByCustomerResolution")]
+        [Route("DisplayByCustomerResolution")]
         public async Task<List<ReportModals>> DisplayByResolution(string Customer,string Resolution)
         {
 
