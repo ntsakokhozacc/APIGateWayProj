@@ -18,7 +18,7 @@ namespace NewChat.Models
         public int RecipientId { get; set; }
         [Required]
         public string Message { get; set; }
-        [Required]
+      
         public string DayOfMessage { get; set; }
 
 

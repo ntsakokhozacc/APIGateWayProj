@@ -10,7 +10,6 @@ using System.Linq;
 using System.Net;
 using System.Threading.Tasks;
 
-// For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace NewChat.Controllers
 {
@@ -27,9 +26,13 @@ namespace NewChat.Controllers
 
 
         [HttpPost]
-        [Route("InsertMessages/{Message}/{SenderId}/{RecipientId}")]
-        public async Task<HttpStatusCode> NewMessage(string Message, string SenderId, string RecipientId)
+        [Route("InsertMessage")]
+        public async Task<HttpStatusCode> NewMessage(ChatModel Chat)
         {
+            string Message = Chat.Message;
+            string SenderId = Chat.SenderId.ToString();
+            string RecipientId = Chat.RecipientId.ToString();
+
             DbDataReader ChatReader = null;
             HttpStatusCode httpStatusCode = HttpStatusCode.Created;
 
@@ -47,6 +50,7 @@ namespace NewChat.Controllers
             return httpStatusCode;
 
         }
+
         [HttpGet]
         [Route("getChats/{SenderId}/{RecipientId}")]
         public async Task<List<ChatModel>> ChatMessages(string SenderId, string RecipientId)

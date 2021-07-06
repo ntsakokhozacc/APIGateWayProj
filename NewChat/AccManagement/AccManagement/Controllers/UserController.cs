@@ -114,8 +114,17 @@ namespace AccManagement.Controllers
         //Create user
         [HttpPost]
         [Route("CreateUser")]
-        public async Task<HttpStatusCode> CreateUser(string FirstName, string LastName, string Address, string Organization, string PhoneNum, string EmailAddress, string Password, string Role)
+        public async Task<HttpStatusCode> CreateUser(Users user)
         {
+            
+            string FirstName = user.FirstName;
+            string LastName = user.LastName;
+            string Address = user.Address;
+            string Organization = user.Organization;
+            string PhoneNum = user.PhoneNum;
+            string EmailAddress = user.EmailAddress;
+            string Password=user.Password;
+            string Role = user.Role;
             DbDataReader userReader = null;
             HttpStatusCode httpStatusCode = HttpStatusCode.Created;
             try

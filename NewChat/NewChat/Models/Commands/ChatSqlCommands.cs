@@ -28,7 +28,6 @@ namespace NewChat.Models.Commands
 
             var Result = await SqlCommand.ExecuteReaderAsync();
             return Result;
-
         }
 
         public async Task<DbDataReader>ChatMessages(int Sender, int Reciever)

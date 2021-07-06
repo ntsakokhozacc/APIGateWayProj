@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReportApi", "ReportApi\Repo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccManagement", "AccManagement\AccManagement\AccManagement.csproj", "{254F143C-EC7C-4D35-BDCE-DF6D7CF227E1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Feeds", "..\..\..\source\repos\Feeds\Feeds\Feeds.csproj", "{E9FA3177-A15E-4E09-9A18-C950D8EA58E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Feeds", "Feeds\Feeds\Feeds.csproj", "{656B0E96-B096-4D47-9C0B-162AAFB0D2F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +35,10 @@ Global
 		{254F143C-EC7C-4D35-BDCE-DF6D7CF227E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{254F143C-EC7C-4D35-BDCE-DF6D7CF227E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{254F143C-EC7C-4D35-BDCE-DF6D7CF227E1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E9FA3177-A15E-4E09-9A18-C950D8EA58E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E9FA3177-A15E-4E09-9A18-C950D8EA58E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E9FA3177-A15E-4E09-9A18-C950D8EA58E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E9FA3177-A15E-4E09-9A18-C950D8EA58E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{656B0E96-B096-4D47-9C0B-162AAFB0D2F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{656B0E96-B096-4D47-9C0B-162AAFB0D2F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{656B0E96-B096-4D47-9C0B-162AAFB0D2F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{656B0E96-B096-4D47-9C0B-162AAFB0D2F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

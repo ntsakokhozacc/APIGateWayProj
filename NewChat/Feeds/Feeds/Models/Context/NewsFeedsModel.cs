@@ -15,9 +15,9 @@ namespace Feeds.Models.Context
             public int FeedId { get; set; }
             [Required]
             public string FeedTitle { get; set; }
-            [Required]
+           [Required]
             public string FeedBody { get; set; }
-            [Required]
+           
             public string FeedDate { get; set; }
         }
     }

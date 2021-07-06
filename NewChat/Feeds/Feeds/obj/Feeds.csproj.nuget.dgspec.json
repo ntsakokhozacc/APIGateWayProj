@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LENOVO THINKPAD\\source\\repos\\Feeds\\Feeds\\Feeds.csproj": {}
+    "C:\\Users\\LENOVO THINKPAD\\Desktop\\e4 Practice\\NewChat\\Feeds\\Feeds\\Feeds.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LENOVO THINKPAD\\source\\repos\\Feeds\\Feeds\\Feeds.csproj": {
+    "C:\\Users\\LENOVO THINKPAD\\Desktop\\e4 Practice\\NewChat\\Feeds\\Feeds\\Feeds.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO THINKPAD\\source\\repos\\Feeds\\Feeds\\Feeds.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO THINKPAD\\Desktop\\e4 Practice\\NewChat\\Feeds\\Feeds\\Feeds.csproj",
         "projectName": "Feeds",
-        "projectPath": "C:\\Users\\LENOVO THINKPAD\\source\\repos\\Feeds\\Feeds\\Feeds.csproj",
+        "projectPath": "C:\\Users\\LENOVO THINKPAD\\Desktop\\e4 Practice\\NewChat\\Feeds\\Feeds\\Feeds.csproj",
         "packagesPath": "C:\\Users\\LENOVO THINKPAD\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO THINKPAD\\source\\repos\\Feeds\\Feeds\\obj\\",
+        "outputPath": "C:\\Users\\LENOVO THINKPAD\\Desktop\\e4 Practice\\NewChat\\Feeds\\Feeds\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

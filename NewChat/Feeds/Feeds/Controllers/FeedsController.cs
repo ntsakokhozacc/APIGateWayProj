@@ -49,13 +49,13 @@ namespace Feeds.Controllers
 
         [HttpPost]
         [Route("newFeed")]
-        public async Task<HttpStatusCode> CreateFeed(string FeedTitle, string FeedBody)
+        public async Task<HttpStatusCode> CreateFeed(NewsFeeds feeds)
         {
             DbDataReader feedsReader = null;
             HttpStatusCode httpStatusCode = HttpStatusCode.Created;
             try
             {
-                feedsReader = await newsFeedsSqlCommands.Newfeed(FeedTitle, FeedBody);
+                feedsReader = await newsFeedsSqlCommands.Newfeed(feeds.FeedTitle, feeds.FeedBody);
             }
             catch (Exception ex)
             {

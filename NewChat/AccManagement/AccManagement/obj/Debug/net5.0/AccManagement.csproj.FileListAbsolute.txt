@@ -208,3 +208,6 @@ C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement
 C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\obj\Debug\net5.0\ref\AccManagement.dll
 C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\obj\Debug\net5.0\AccManagement.pdb
 C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\obj\Debug\net5.0\AccManagement.genruntimeconfig.cache
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\System.Web.Http.dll
+C:\Users\LENOVO THINKPAD\Desktop\e4 Practice\NewChat\AccManagement\AccManagement\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
